@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{02D3F413-1CD3-4094-A1A0-A9F71C2D5765}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JSONExer/Program.cs">
+    <Files>
+      <File FileName="JSONExer/Program.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.ItemProperties.JSONExer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

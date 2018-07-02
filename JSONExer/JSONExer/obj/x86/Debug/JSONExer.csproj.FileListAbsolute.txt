@@ -1,0 +1,6 @@
+/Users/minutemedia/Projects/JSONExer/JSONExer/bin/Debug/JSONExer.exe
+/Users/minutemedia/Projects/JSONExer/JSONExer/bin/Debug/JSONExer.pdb
+/Users/minutemedia/Projects/JSONExer/JSONExer/obj/x86/Debug/JSONExer.csprojResolveAssemblyReference.cache
+/Users/minutemedia/Projects/JSONExer/JSONExer/obj/x86/Debug/JSONExer.csproj.CoreCompileInputs.cache
+/Users/minutemedia/Projects/JSONExer/JSONExer/obj/x86/Debug/JSONExer.exe
+/Users/minutemedia/Projects/JSONExer/JSONExer/obj/x86/Debug/JSONExer.pdb

@@ -1,0 +1,3 @@
+/Users/minutemedia/Projects/JSONExer/JSONExer/bin/Release/JSONExer.exe
+/Users/minutemedia/Projects/JSONExer/JSONExer/obj/x86/Release/JSONExer.csproj.CoreCompileInputs.cache
+/Users/minutemedia/Projects/JSONExer/JSONExer/obj/x86/Release/JSONExer.exe
